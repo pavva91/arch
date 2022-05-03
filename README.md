@@ -35,4 +35,9 @@ Password Manager
 AUR Helper
   - yay
 
+Audio:
+  - pavucontrol
+
+
+
 

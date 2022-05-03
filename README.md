@@ -7,6 +7,9 @@ WM (Xorg):
 Compositor (Wayland):
   - sway
 
+Application Launcher:
+  - rofi
+
 Display Manager:
   - gdm
 

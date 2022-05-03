@@ -8,13 +8,22 @@ File Manager
   - ranger
   - pcmanfm
 
-GTK Themes:
+Set GTK Themes:
   - lxappearance
 
-Qt Themes:
+Set Qt Themes:
   - qt5ct
 
 Text Editor:
   - vim
   - codium
+
+Browser:
+  - brave
+  - firefox
+
+Password Manager
+  - keepassxc
+
+
 

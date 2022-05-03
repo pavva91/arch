@@ -1,7 +1,9 @@
 # arch
 App used:
-WM:
+WM (Xorg):
   - i3
+
+Compositor (Wayland):
   - sway
 
 File Manager
@@ -25,5 +27,7 @@ Browser:
 Password Manager
   - keepassxc
 
+AUR Helper
+  - yay
 
 

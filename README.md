@@ -11,10 +11,11 @@ File Manager
   - pcmanfm
 
 Set GTK Themes:
-  - lxappearance
+  - lxappearance (Adwaita-dark)
 
 Set Qt Themes:
   - qt5ct
+  - adwaita-qt (Adwaita-dark)
 
 Text Editor:
   - vim

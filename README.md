@@ -38,6 +38,9 @@ AUR Helper
 Audio:
   - pavucontrol
 
+Video Player:
+  - mpv
+
 
 
 

@@ -1,5 +1,6 @@
 # arch
 App used:
+
 WM (Xorg):
   - i3
 

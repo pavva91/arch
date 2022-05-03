@@ -7,6 +7,9 @@ WM (Xorg):
 Compositor (Wayland):
   - sway
 
+Display Manager:
+  - gdm
+
 File Manager
   - ranger
   - pcmanfm

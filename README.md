@@ -41,6 +41,19 @@ Audio:
 Video Player:
   - mpv
 
+Screenshots:
+  - maim (i3)
+  - grim (sway)
+
+PDF Viewer:
+  - zathura
+
+Image Viewer:
+  - imv (CLI)
+  - eog (GUI - for printing)
+
+
+
 
 
 

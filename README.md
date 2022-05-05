@@ -58,6 +58,9 @@ Image Viewer:
 Task Management (TODO Lists)
   - tudu (https://code.meskio.net/tudu/)
 
+Pomodoro Technique:
+  - flow-pomodoro
+
 
 
 

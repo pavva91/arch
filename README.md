@@ -55,6 +55,10 @@ Image Viewer:
   - imv (CLI)
   - eog (GUI - for printing)
 
+Task Management (TODO Lists)
+  - tudu (https://code.meskio.net/tudu/)
+
+
 
 
 

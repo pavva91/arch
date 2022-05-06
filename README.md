@@ -61,6 +61,12 @@ Task Management (TODO Lists)
 Pomodoro Technique:
   - flow-pomodoro
 
+Radio Player:
+  - Goodvibes
+  - Shortwave (https://www.radio-browser.info/)
+
+Audio Player:
+  - DeaDBeeF
 
 
 

@@ -51,6 +51,9 @@ Screenshots:
 PDF Viewer:
   - zathura
 
+PDF merge:
+  - pdfunite
+
 Image Viewer:
   - imv (CLI)
   - eog (GUI - for printing)

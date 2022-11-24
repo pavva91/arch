@@ -15,8 +15,12 @@ Display Manager:
 
 File Manager
   - ranger
+  - lf (go rewrite of ranger)
   - pcmanfm
-
+RSS Feed Reader:
+  - newsboat
+  - canto-curses
+  
 Set GTK Themes:
   - lxappearance (Adwaita-dark)
 

@@ -17,6 +17,7 @@ File Manager
   - ranger
   - lf (go rewrite of ranger)
   - pcmanfm
+
 RSS Feed Reader:
   - newsboat
   - canto-curses
